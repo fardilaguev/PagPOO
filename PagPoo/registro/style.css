@@ -1,0 +1,48 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    height:100vh;
+    width: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-attachment: fixed;
+}
+
+.cuadro{
+    padding: 10px 10px;
+    background-color: #93B1A6;
+    border-radius: 10px;
+    box-shadow: 
+    1px 1px 2px black,
+    0 0 2em black,
+    0 0 2em black;
+    float:left;
+    margin-left: 10%;
+    text-align: center;
+    font-family: cursive;
+    font-size: 125%;
+}
+
+.ini{
+    padding: 10px; 
+    float: left; 
+    width: 45%; 
+    text-align: justify;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.cuaIni{
+    padding: 10px; 
+    float: right; 
+    width: 45%; 
+    text-align: justify;
+    margin-top: 15%;
+    font-size: 1000%;
+    font-family: fantasy;
+    text-shadow:
+    1px 1px 2px black,
+    0 0 1em black,
+    0 0 0.2em black;
+    color:beige;
+}

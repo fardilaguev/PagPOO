@@ -1,0 +1,58 @@
+body{
+    background-image: url(../img/fondo.jpg);
+    height:100vh;
+    width: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar{
+    background-color: #040D12;
+}
+
+.navbar-brand{
+    color: beige;
+    font-size: 170%;
+}
+
+.accordion{
+    background-color: #040D12;
+    padding-top: 1%;
+    padding-bottom: 152%;
+    padding-right: 1%;
+}
+
+.accordion-button{
+    background-color: #040D12;
+    color: beige;
+}
+
+.iz{ 
+    float: left; 
+    width: 20%; 
+    text-align: justify;
+}
+
+.de{
+    padding: 40px; 
+    margin: 5% 5% 5%;
+    float: right; 
+    width: 70%; 
+    text-align: left;
+    color: beige;
+    background-color: #040D12;
+    border-radius: 15px;
+}
+
+.desc{
+    display: inline-block;
+    vertical-align: top;
+    padding: 40px;
+    text-align: top;
+}
+
+.titLib{
+    font-size: 150%;
+}
